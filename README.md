@@ -5,14 +5,18 @@ Here I am, a beginner .NET developer: have a million ideas and not so much time 
 > 🐸 Pronouns: she/her
 
 ## 🥸 I'm currently working on: 🥸
-- Rare Language Learning platform (on the "Initial Idea" stage)
-- TimeLine building Library (figuring out the architecture)
-- Website for a kindergarden (planning to rewrite it on ASP.NET)
+- Multiplayer Detective Game with client side on Unity and server side on .NET6
+
+## My recent projects:
+- BlazingBooks -> Online Book Store. Learned to work with Blazor Server and EF Core with MS SQL database
+- AdoNetWPF -> Small study project to work with ADO.NET in WPF application
+- wildlif-book and cats-react -> Study project on React
+- Also I contirbuted to project [KarteVonMorgen](https://github.com/kartevonmorgen/kartevonmorgen.ts/) (worked as an intern)
 
 So, apparently, not much coding in my life yet
 
 ## 🦐 I'm currently learning: 🦐
-- everything that is dotnet-related
+- everything that is .NET-related
 - SQL
 - Knitting and crocheting
 - Software Architecture
