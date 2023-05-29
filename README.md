@@ -10,10 +10,8 @@ Here I am, a beginner .NET developer: have a million ideas and not so much time 
 ## My recent projects:
 - BlazingBooks -> Online Book Store. Learned to work with Blazor Server and EF Core with MS SQL database
 - AdoNetWPF -> Small study project to work with ADO.NET in WPF application
-- wildlif-book and cats-react -> Study project on React
-- Also I contirbuted to project [KarteVonMorgen](https://github.com/kartevonmorgen/kartevonmorgen.ts/) (worked as an intern)
-
-So, apparently, not much coding in my life yet
+- wildlife-book and cats-react -> Study project on React
+- I also contirbuted to project [KarteVonMorgen](https://github.com/kartevonmorgen/kartevonmorgen.ts/) (worked as an intern)
 
 ## 🦐 I'm currently learning: 🦐
 - everything that is .NET-related
