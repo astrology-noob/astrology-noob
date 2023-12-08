@@ -1,23 +1,18 @@
-# Hi there 👋
+# Hi 👋
 
 Here I am, a beginner .NET developer: have a million ideas and not so much time to fulfill them 😳
 
-> 🐸 Pronouns: she/her
+## 😨 I'm currently working on: 😨
+- My diploma: UMK-editor
 
-## 🥸 I'm currently working on: 🥸
-- Multiplayer Detective Game with client side on Unity and server side on .NET6
-
-## My recent projects:
-- BlazingBooks -> Online Book Store. Learned to work with Blazor Server and EF Core with MS SQL database
+## 🧐 My recent projects: 🧐
+- BlazingBooks -> Online Book Store. Learned to work with Blazor Server, EF Core with MS SQL database and Authorization & Authentication
 - AdoNetWPF -> Small study project to work with ADO.NET in WPF application
 - wildlife-book and cats-react -> Study project on React
 - I also contirbuted to project [KarteVonMorgen](https://github.com/kartevonmorgen/kartevonmorgen.ts/) (worked as an intern)
 
-## 🦐 I'm currently learning: 🦐
+## 🤨 I'm currently learning: 🤨
 - everything that is .NET-related
-- SQL
-- Knitting and crocheting
-- Software Architecture
 
 <!--
 **astrology-noob/astrology-noob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
