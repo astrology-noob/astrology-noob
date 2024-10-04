@@ -2,10 +2,8 @@
 
 Here I am, a beginner .NET developer: have a million ideas and not so much time to fulfill them 😳
 
-## 😨 I'm currently working on: 😨
-- My diploma: UMK-editor
-
 ## 🧐 My recent projects: 🧐
+- My diploma -> UMK-editor
 - BlazingBooks -> Online Book Store. Learned to work with Blazor Server, EF Core with MS SQL database and Authorization & Authentication
 - AdoNetWPF -> Small study project to work with ADO.NET in WPF application
 - wildlife-book and cats-react -> Study project on React
